@@ -4,10 +4,10 @@
  
 ## I'm Giovanna, a Junior Front-End Developer from Brazil.
  
-Productive, communicative, sociable and creative professional, I have a bachelor degree in Architecture and have just recently started exploring my passion for coding. 
-I yearned to learn more about it, and from this yearning I started studying Front-End development. Since then, I can’t get enough. Learning about web development and responsive design has been an intense and passionate ride, as learning comes fast, but the topics are infinite. The moldable, creative work that coding a webpage requires is challenging and satisfying.
-My specialties include quickly learning new skills and programming languages, responsive design principles and graphic design knowledge. HTML, CSS and Javascript are my major topics of study, but I also have knowledge in JQuery, React, Bootstrap, Bulma, EJS and Git/GitHub. As I dedicated myself to some Full-Stack Programming courses, I’ve had contact with Node.JS, MongoDB and Express.JS. 
-Learning is a never ending process, and I feel like I’ve just taken the first steps of what looks like a very long journey, to which I’m beyond excited. 
+- Productive, communicative, sociable and creative professional, I have a bachelor degree in Architecture and have just recently started exploring my passion for coding. 
+- I yearned to learn more about it, and from this yearning I started studying Front-End development. Since then, I can’t get enough. Learning about web development and responsive design has been an intense and passionate ride, as learning comes fast, but the topics are infinite. The moldable, creative work that coding a webpage requires is challenging and satisfying.
+- My specialties include quickly learning new skills and programming languages, responsive design principles and graphic design knowledge. HTML, CSS and Javascript are my major topics of study, but I also have knowledge in JQuery, React, Bootstrap, Bulma, EJS and Git/GitHub. As I dedicated myself to some Full-Stack Programming courses, I’ve had contact with Node.JS, MongoDB and Express.JS. 
+- Learning is a never ending process, and I feel like I’ve just taken the first steps of what looks like a very long journey, to which I’m beyond excited. 
  
  
 ## About me 
