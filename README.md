@@ -6,7 +6,7 @@
  
 Productive, communicative, sociable and creative professional, I have a bachelor degree in Architecture and have just recently started exploring my passion for coding. 
 
-I yearned to learn more about it, and from this yearning I started studying Front-End development. Since then, I can’t get enough. Learning about web development and responsive design has been an intense and passionate ride, as learning comes fast, but it requires a lot of practice and dedication. The creative work that coding a webpage requires is challenging and satisfying.
+I yearned to learn more about it, and from this yearning I started studying Front-End development. Since then, I can’t get enough. Learning about web development and responsive design has been an intense and passionate ride, as learning comes fast, but it requires a lot of practice and dedication. The creative work that coding a webpage requires is as challenging as it is satisfying.
 
 Learning is a never ending process, and I feel like I’ve just taken the first steps of what looks like a very long journey, to which I’m beyond excited. 
  
