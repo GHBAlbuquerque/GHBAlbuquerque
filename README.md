@@ -2,7 +2,7 @@
  
 ### Welcome!
  
-#### I'm Giovanna, a Junior Full-Stack Developer from Brazil.
+#### I'm Giovanna, a Java Developer from Brazil.
  
 Productive, communicative, sociable and creative professional, I have a bachelor degree in Architecture and have just recently started exploring my passion for coding. 
 
