@@ -4,11 +4,9 @@
  
 #### I'm Giovanna, a Java Developer from Brazil.
  
-Productive, communicative, sociable and creative professional, I have a bachelor degree in Architecture and have just recently started exploring my passion for coding. 
+I'm a south american girl with a bachelor degree in architecture, who changed carreer paths to become a developer. 
 
-I yearned to learn more about it, and from this yearning I started studying to become a developer. Since then, I can’t get enough. Learning about web development has been an intense and passionate ride, as learning comes fast, but it requires a lot of practice and dedication.
-
-Learning is a never ending process, and I feel like I’ve just taken the first steps of what looks like a very long journey, to which I’m beyond excited. 
+I love learning and have a huge passion for coding. Let's see where that takes me. 😌
  
  
 #### About me 
