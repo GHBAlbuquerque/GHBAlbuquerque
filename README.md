@@ -2,12 +2,14 @@
  
 ### Welcome!
  
-#### I'm Giovanna, a Java Developer from Brazil.
+#### I'm Giovanna, a developer from Brazil.
  
 I'm a south american girl with a bachelor degree in architecture, who changed carreer paths to become a developer. 
+The projects here were mainly made in Java, Kotlin, Python and Javascript.
 
-I love learning and have a huge passion for coding. Let's see where that takes me. 😌
- 
+I love learning and coding. Let's see where my curiosity takes me. 😌
+
+Feel free to contact me if you need.
  
 #### About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/GHBAlbuquerque)
