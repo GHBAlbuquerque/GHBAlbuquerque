@@ -5,7 +5,7 @@
 #### I'm Giovanna, a developer from Brazil.
  
 I'm a south american girl with a bachelor degree in architecture, who changed carreer paths to become a developer. 
-The projects here were mainly made in Java, Kotlin, Python and Javascript.
+The projects here were mainly made in Java, Spring Boot, Typescript and React but you'll also find projects in Kotlin, Python and Javascript.
 
 I love learning and coding. Let's see where my curiosity takes me. 😌
 
